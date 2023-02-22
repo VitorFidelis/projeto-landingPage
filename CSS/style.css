@@ -119,6 +119,7 @@ a.btn{
 .hover-right .left {
     width: 25%;
 }
+
 /* Causa o efeito de responsividade, delimitando a largura maxima */ 
 @media (max-width: 800px) {
     h1 {
