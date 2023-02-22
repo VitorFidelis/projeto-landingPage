@@ -15,7 +15,7 @@ body{
 h1{
     font-size: 4rem;
     color: black;
-    /* centralizou os titulos no meio do boy */
+    /* centralizou os titulos no meio do body */
     position: absolute;
     left: 50%;
     top: 20%;
@@ -101,7 +101,7 @@ a.btn{
 .split.left,
 .split.right::before,
 .split.left::before{
-    transition: all 1500ms ease-in-out;
+    transition: all 1500ms ease-in-out; /* estipula o tempo da transição do efeito */
 }
 
 .hover-left .left {
@@ -119,7 +119,7 @@ a.btn{
 .hover-right .left {
     width: 25%;
 }
-
+/* Causa o efeito de responsividade, delimitando a largura maxima */ 
 @media (max-width: 800px) {
     h1 {
         font-size: 2rem;
