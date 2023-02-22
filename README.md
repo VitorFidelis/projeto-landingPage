@@ -14,4 +14,4 @@
 
 <img src="imgs-projeto/3°img.png" alt="terceira imagem do projeto">
 
-<a href="#" target="_blank"></a>
+<a href="https://vitorfidelis.github.io/projeto-landingPage/" target="_blank">Click aqui!🔗</a> e confira o projeto.
